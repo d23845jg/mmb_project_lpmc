@@ -1,0 +1,5 @@
+*.toml
+*.html
+*.pickle
+*.iter
+.DS_Store
